@@ -1,0 +1,4 @@
+QUnitの使用テスト
+
+QUnitでテスト
+ついでにjavascriptのthisの仕様も確認
