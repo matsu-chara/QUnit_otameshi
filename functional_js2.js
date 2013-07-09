@@ -1,4 +1,5 @@
 //アクセサリの合計数とcodeにキーホルダーが含まれているアイテムの名前一覧を取得したい
+//http://ameblo.jp/ca-1pixel/entry-11144884109.htmlより
 var items =[
 　　{
 　　　　"code": "pink_shirt",
